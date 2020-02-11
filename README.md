@@ -1,4 +1,4 @@
-# Festival-transfo-projet-micro-bit
+# Festival transfo projet micro bit
 
 C'est le dépôt des minis projets d'initiations à la programmation microcontrolleur sur micro:bit effectué dans le contexte du festival transfo. L'atelier aura lieu au campus numérique au centre de valence le samedi 14 Mars, de 9h00 à 18h00.
 
