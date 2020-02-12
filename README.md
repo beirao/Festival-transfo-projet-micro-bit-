@@ -4,4 +4,4 @@ C'est le dépôt des minis projets d'initiations à la programmation microcontro
 
 Dans cet atelier nous vous proposons de découvrir la programmation microcontrôleur sur micro:bit qui est un microcontrôleur pensé pour les débutants.
 
-Ce dépôt sera composé des codes en java script, python et bloc.
+Ce dépôt sera composé des codes en java script, python et bloc.pp
