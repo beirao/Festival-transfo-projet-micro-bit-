@@ -2,7 +2,19 @@
 from microbit import *
 
 
-while True:
-    display.scroll('Hello, World!')
-    display.show(Image.HEART)
-    sleep(2000)
+
+emoji_content = Image("05050:"
+                      "09090:"
+                      "00000:"
+                      "90009:"
+                      "09990")
+
+display.show(boat)
+                      
+emoji_content = Image("05000:"
+                      "09050:"
+                      "00000:"
+                      "90009:"
+                      "09990")
+
+display.show(boat)
